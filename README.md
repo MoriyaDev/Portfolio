@@ -1,4 +1,4 @@
-
+<div dir="rtl">
 
 # My Portfolio
 ברוך הבא לתיק העבודות שלי! כאן תוכלו למצוא את מגוון הפרויקטים שאני גאה בהם, כולל פרויקטים עצמיים, שיעורי בית, ויישומים שונים שפיתחתי במהלך הלימודים.  
@@ -9,25 +9,31 @@
 אני מזמינה אתכם לעיין בפרויקטים ולהתרשם מהיכולות שלי.
 
 ---
+<div dir="rtl">
 
 ## פרויקטים:
----
-- **פרויקט צד שרת - אתר השבת אבידה**: [קישור צד שרת - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-Java.git)
 
-- **פרויקט צד לקוח - אתר השבת אבידה**: [קישור צד לקוח - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-React.git)  
+- **פרויקט צד שרת - אתר השבת אבידה**:
+   [קישור צד שרת - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-Java.git)
+
+- **פרויקט צד לקוח - אתר השבת אבידה**:
+   [קישור צד לקוח - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-React.git)  
   אתר FULL Stack להשבת אבידות ומציאת חפצים עם אבטחה עם שיתופים וAPI חיצוני
 
--**תמונה של דף הבית של אבידות ומציאות**:
-![דף הבית](https://github.com/user-attachments/assets/9542bf93-878b-4200-9e26-27934633cff3)
-
----  
-- **פרויקט Web - האתר הראשון שלי**: [קישור צד לקוח - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-React.git)  
+- **פרויקט Web - האתר הראשון שלי**:
+   [קישור צד לקוח - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-React.git)  
   אתר הזמנות אישי לעיצובים וגרפיקה בCSS ו- HTML
 
-  -**תמונה של דף הבית של האתר האישי והראשון שלי**:
-  ![דף הבית אתר שלי](https://github.com/user-attachments/assets/420e3d90-415d-4230-bfd5-b6bb524be751)
-
----
-- **פרויקט Web - משחק דאבל**: [קישור צד לקוח - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-React.git)  
+- **פרויקט Web - משחק דאבל**:
+ [קישור צד לקוח - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-React.git)  
    משחק דאבל - משחק זוגי מהנה על מהירות ואבחנה דקה ב-JavaScript ו-CSS  
+</div>
 ---
+
+### תמונה של דף הבית של אבידות ומציאות
+![דף הבית](https://github.com/user-attachments/assets/9542bf93-878b-4200-9e26-27934633cff3)
+
+### תמונה של דף הבית של האתר האישי והראשון שלי
+![דף הבית אתר שלי](https://github.com/user-attachments/assets/420e3d90-415d-4230-bfd5-b6bb524be751)
+
+</div>
