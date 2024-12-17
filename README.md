@@ -1,3 +1,5 @@
+<div style="direction: rtl; text-align: right;">
+
 # My Portfolio
 ברוך הבא לתיק העבודות שלי! כאן תוכלו למצוא את מגוון הפרויקטים שאני גאה בהם, כולל פרויקטים עצמיים, שיעורי בית, ויישומים שונים שפיתחתי במהלך הלימודים.  
 כל פרויקט משקף את יכולותיי בתכנות, עיצוב, ובניית מערכות מורכבות.
@@ -10,21 +12,38 @@
 
 ## פרויקטים:
 
- **פרויקט צד שרת - אתר השבת אבידה**: [קישור צד שרת - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-Java.git)
+### **פרויקט צד שרת - אתר השבת אבידה**  
+[קישור צד שרת - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-Java.git)  
+אתר צד שרת להשבת אבידות ומציאת חפצים.  
 
- **פרויקט צד לקוח - אתר השבת אבידה**: [קישור צד לקוח - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-React.git)  
-  אתר FULL Stack להשבת אבידות ומציאת חפצים עם אבטחה עם שיתופים וAPI חיצוני
-
- **פרויקט Web - האתר הראשון שלי**: [קישור צד לקוח - האתר הראשון שלי]()  
-  אתר הזמנות אישי לעיצובים וגרפיקה בCSS ו- HTML
-
- **פרויקט Web - משחק דאבל**: [משחק דאבל](https://github.com/MoriyaDev/Dobble.git)  
-   משחק דאבל - משחק זוגי מהנה על מהירות ואבחנה דקה ב-JavaScript ו-CSS  
 
 ---
 
-### תמונה של דף הבית של אבידות ומציאות
-![דף הבית](https://github.com/user-attachments/assets/9542bf93-878b-4200-9e26-27934633cff3)
+### **פרויקט צד לקוח - אתר השבת אבידה**  
+[קישור צד לקוח - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-React.git)  
+אתר FULL Stack להשבת אבידות עם אבטחה ושיתופים.  
 
-### תמונה של דף הבית של האתר האישי והראשון שלי
-![דף הבית אתר שלי](https://github.com/user-attachments/assets/420e3d90-415d-4230-bfd5-b6bb524be751)
+![דף הבית](https://github.com/user-attachments/assets/bc5e4981-585f-4a64-bf5c-d4de7582cc26)
+
+
+---
+
+### **פרויקט Web - משחק דאבל**  
+[משחק דאבל](https://github.com/MoriyaDev/Dobble.git)  
+משחק זוגי מהנה על מהירות ואבחנה דקה ב-JavaScript ו-CSS.  
+
+![111](https://github.com/user-attachments/assets/021b3596-54f8-419d-a65a-33e49cdcbdad)
+
+
+
+---
+### **פרויקט Web - האתר הראשון שלי**  
+[קישור צד לקוח - האתר הראשון שלי](#)  
+אתר הזמנות אישי לעיצובים וגרפיקה ב-HTML ו-CSS.  
+
+![דף הבית אתר שלי](https://github.com/user-attachments/assets/d15f36d2-f02d-4219-86fd-c1aece6b5504)
+
+
+---
+
+</div>
