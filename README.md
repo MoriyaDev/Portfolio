@@ -15,10 +15,10 @@
  **פרויקט צד לקוח - אתר השבת אבידה**: [קישור צד לקוח - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-React.git)  
   אתר FULL Stack להשבת אבידות ומציאת חפצים עם אבטחה עם שיתופים וAPI חיצוני
 
- **פרויקט Web - האתר הראשון שלי**: [קישור צד לקוח - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-React.git)  
+ **פרויקט Web - האתר הראשון שלי**: [קישור צד לקוח - האתר הראשון שלי]()  
   אתר הזמנות אישי לעיצובים וגרפיקה בCSS ו- HTML
 
- **פרויקט Web - משחק דאבל**: [קישור צד לקוח - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-React.git)  
+ **פרויקט Web - משחק דאבל**: [משחק דאבל](https://github.com/MoriyaDev/Dobble.git)  
    משחק דאבל - משחק זוגי מהנה על מהירות ואבחנה דקה ב-JavaScript ו-CSS  
 
 ---
