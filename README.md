@@ -12,38 +12,57 @@
 
 ## פרויקטים:
 
-### **פרויקט צד שרת - אתר השבת אבידה**  
+### פרויקט צד שרת - אתר השבת אבידה  
 [קישור צד שרת - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-Java.git)  
-אתר צד שרת להשבת אבידות ומציאת חפצים.  
-
+פרויקט Java עם jwt  להשבת אבידות ומציאת חפצים.  
+```
+https://github.com/MoriyaDev/Project-lost-found-Java.git
+```
 
 ---
 
-### **פרויקט צד לקוח - אתר השבת אבידה**  
+### פרויקט צד לקוח - אתר השבת אבידה
 [קישור צד לקוח - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-React.git)  
-אתר FULL Stack להשבת אבידות עם אבטחה ושיתופים.  
-
-![דף הבית](https://github.com/user-attachments/assets/bc5e4981-585f-4a64-bf5c-d4de7582cc26)
+אתר React עם טכנולגית Redux Toolkit להשבת אבידות ושיתופים.  
+```
+https://github.com/MoriyaDev/Project-lost-found-React.git
+```
 
 
 ---
-
 ### **פרויקט Web - משחק דאבל**  
 [משחק דאבל](https://github.com/MoriyaDev/Dobble.git)  
 משחק זוגי מהנה על מהירות ואבחנה דקה ב-JavaScript ו-CSS.  
-
-![111](https://github.com/user-attachments/assets/021b3596-54f8-419d-a65a-33e49cdcbdad)
-
-
+```
+https://github.com/MoriyaDev/Dobble.git
+```
 
 ---
+
 ### **פרויקט Web - האתר הראשון שלי**  
 [קישור צד לקוח - האתר הראשון שלי](#)  
 אתר הזמנות אישי לעיצובים וגרפיקה ב-HTML ו-CSS.  
+```
 
+```
+
+---
+## תמונות מדף הבית של האתרים
+
+**אבידות ומציאות**
+---
+![דף הבית](https://github.com/user-attachments/assets/bc5e4981-585f-4a64-bf5c-d4de7582cc26)
+
+**משחק דאבל**
+---
+![111](https://github.com/user-attachments/assets/021b3596-54f8-419d-a65a-33e49cdcbdad)
+
+**אתר אישי**
+---
 ![דף הבית אתר שלי](https://github.com/user-attachments/assets/d15f36d2-f02d-4219-86fd-c1aece6b5504)
 
 
----
+
+
 
 </div>
