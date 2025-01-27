@@ -12,19 +12,21 @@
 
 ## פרויקטים:
 
-### **💡פרויקט צד שרת - מקרר חכם **  
+### 💡פרויקט צד שרת - מקרר חכם
 [קישור צד שרת - מקרר חכם](https://github.com/MoriyaDev/smartFridge_C-.git)  
 פרויקט C# הכולל אלגוריתמים חכמים לניהול מלאי, יצירת רשימות קניות והצעת מתכונים לשימוש במוצרים שבמקרר. 
 ```
 https://github.com/MoriyaDev/smartFridge_C-.git
 ```
+---
 
-### **💡פרויקט צד לקוח - מקרר חכם **  
+### 💡פרויקט צד לקוח - מקרר חכם
 [קישור צד לקוח - מקרר חכם](https://github.com/MoriyaDev/smartFridge_Angular.git)  
 פרויקט Angular המתחבר לצד השרת עם עיצוב מרהיב, חוויית משתמש מתקדמת ויכולת לסנן ולנווט בין מתכונים וקטגוריות שונות.  
 ```
 https://github.com/MoriyaDev/smartFridge_Angular.git
 ```
+---
 
 ### 💡פרויקט צד שרת - אתר השבת אבידה  
 [קישור צד שרת - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-Java.git)  
@@ -32,25 +34,21 @@ https://github.com/MoriyaDev/smartFridge_Angular.git
 ```
 https://github.com/MoriyaDev/Project-lost-found-Java.git
 ```
-
 ---
 
 ### 💡פרויקט צד לקוח - אתר השבת אבידה
-[קישור צד לקוח - אתר השבת אבידה](https://github.com/MoriyaDev/Project-lost-found-React.git)  
+[קישור צד לקוח - אתר השבת אבידה👈](https://github.com/MoriyaDev/Project-lost-found-React.git)  
 אתר React עם טכנולגית Redux Toolkit להשבת אבידות ושיתופים.  
 ```
 https://github.com/MoriyaDev/Project-lost-found-React.git
 ```
-
-
 ---
-### 💡**פרויקט Web - משחק דאבל**  
+### 💡פרויקט Web - משחק דאבל
 [משחק דאבל](https://github.com/MoriyaDev/Dobble.git)  
 משחק זוגי מהנה על מהירות ואבחנה דקה ב-JavaScript ו-CSS.  
 ```
 https://github.com/MoriyaDev/Dobble.git
 ```
-
 ---
 
 ### 💡פרויקט Web - האתר הראשון שלי  
@@ -61,7 +59,7 @@ https://github.com/MoriyaDev/Dobble.git
 ```
 
 ---
-## תמונות מדף הבית של האתרים
+## 🖼️תמונות מדף הבית של האתרים
 
 **אבידות ומציאות**
 ---
