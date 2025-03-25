@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/מפתחת-Full%20Stack-blue?style=for-the-badge" alt="מפתחת Full Stack"/>
   <img src="https://img.shields.io/badge/שפות-C%23%20|%20Java%20|%20JavaScript-orange?style=for-the-badge" alt="שפות תכנות"/>
-  <img src="https://img.shields.io/badge/מסגרות-Angular%20|%20React-green?style=for-the-badge" alt="מסגרות"/>
+  <img src="https://img.shields.io/badge/מסגרות-Angular%20|%20React-green?style=for-the-badge" alt="לקוח"/>
 </p>
 
 ## 👋 ברוכים הבאים לתיק העבודות שלי!
