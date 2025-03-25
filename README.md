@@ -13,7 +13,7 @@
 ## פרויקטים:
 
 ### 💡פרויקט צד שרת - מקרר חכם
-[קישור צד שרת - מקרר חכם](https://github.com/MoriyaDev/smartFridge_C-.git)  
+[קישור צד שרת - מקרר חכם](https://github.com/MoriyaDev/smartFridge_C_sharp.git)  
 פרויקט C# הכולל אלגוריתמים חכמים לניהול מלאי, יצירת רשימות קניות והצעת מתכונים לשימוש במוצרים שבמקרר. 
 ```
 https://github.com/MoriyaDev/smartFridge_C-.git
